@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-AgeCal/static/css/main.073c9b0a.css",
+    "main.js": "/React-AgeCal/static/js/main.99373e95.js",
+    "static/js/787.9a1ec5b8.chunk.js": "/React-AgeCal/static/js/787.9a1ec5b8.chunk.js",
+    "index.html": "/React-AgeCal/index.html",
+    "main.073c9b0a.css.map": "/React-AgeCal/static/css/main.073c9b0a.css.map",
+    "main.99373e95.js.map": "/React-AgeCal/static/js/main.99373e95.js.map",
+    "787.9a1ec5b8.chunk.js.map": "/React-AgeCal/static/js/787.9a1ec5b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.99373e95.js"
+  ]
+}
